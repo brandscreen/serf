@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hashicorp/serf/cli"
+	"github.com/brandscreen/serf/cli"
 	"io/ioutil"
 	"log"
 	"os"

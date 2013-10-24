@@ -1,8 +1,8 @@
 package agent
 
 import (
-	"github.com/hashicorp/serf/cli"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/brandscreen/serf/cli"
+	"github.com/brandscreen/serf/testutil"
 	"log"
 	"net/rpc"
 	"testing"

@@ -3,7 +3,7 @@ package agent
 import (
 	"bytes"
 	"fmt"
-	"github.com/hashicorp/serf/serf"
+	"github.com/brandscreen/serf/serf"
 	"io"
 	"log"
 	"os/exec"

@@ -95,7 +95,7 @@ If you wish to work on Serf itself, you'll first need [Go](http://golang.org)
 installed (version 1.1+ is _required_). Make sure you have Go properly installed,
 including setting up your [GOPATH](http://golang.org/doc/code.html#GOPATH).
 
-Next, clone this repository into `$GOPATH/src/github.com/hashicorp/serf` and
+Next, clone this repository into `$GOPATH/src/github.com/brandscreen/serf` and
 then just type `make`. In a few moments, you'll have a working `serf` executable:
 
 ```

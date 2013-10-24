@@ -3,8 +3,8 @@ package agent
 import (
 	"encoding/gob"
 	"fmt"
-	"github.com/hashicorp/logutils"
-	"github.com/hashicorp/serf/serf"
+	"github.com/brandscreen/logutils"
+	"github.com/brandscreen/serf/serf"
 	"log"
 	"net"
 	"net/rpc"

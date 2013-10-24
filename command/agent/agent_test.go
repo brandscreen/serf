@@ -1,8 +1,8 @@
 package agent
 
 import (
-	"github.com/hashicorp/serf/serf"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/brandscreen/serf/serf"
+	"github.com/brandscreen/serf/testutil"
 	"strings"
 	"testing"
 	"time"

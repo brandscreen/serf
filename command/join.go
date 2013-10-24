@@ -3,7 +3,7 @@ package command
 import (
 	"flag"
 	"fmt"
-	"github.com/hashicorp/serf/cli"
+	"github.com/brandscreen/serf/cli"
 	"strings"
 )
 

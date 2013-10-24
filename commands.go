@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/hashicorp/serf/cli"
-	"github.com/hashicorp/serf/command"
-	"github.com/hashicorp/serf/command/agent"
+	"github.com/brandscreen/serf/cli"
+	"github.com/brandscreen/serf/command"
+	"github.com/brandscreen/serf/command/agent"
 	"os"
 	"os/signal"
 )

@@ -3,8 +3,8 @@ package command
 import (
 	"flag"
 	"fmt"
-	"github.com/hashicorp/logutils"
-	"github.com/hashicorp/serf/cli"
+	"github.com/brandscreen/logutils"
+	"github.com/brandscreen/serf/cli"
 	"strings"
 	"sync"
 )

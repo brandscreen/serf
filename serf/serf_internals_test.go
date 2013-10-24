@@ -1,8 +1,8 @@
 package serf
 
 import (
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/brandscreen/memberlist"
+	"github.com/brandscreen/serf/testutil"
 	"testing"
 )
 

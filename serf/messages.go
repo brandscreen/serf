@@ -2,7 +2,7 @@ package serf
 
 import (
 	"bytes"
-	"github.com/ugorji/go/codec"
+	"github.com/brandscreen/gomsgpack"
 )
 
 // messageType are the types of gossip messages Serf will send along

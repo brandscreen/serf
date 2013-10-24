@@ -2,7 +2,7 @@ package command
 
 import (
 	"flag"
-	"github.com/hashicorp/serf/command/agent"
+	"github.com/brandscreen/serf/command/agent"
 	"net/rpc"
 )
 

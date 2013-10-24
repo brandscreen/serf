@@ -1,7 +1,7 @@
 package agent
 
 import (
-	"github.com/hashicorp/logutils"
+	"github.com/brandscreen/logutils"
 	"io/ioutil"
 )
 

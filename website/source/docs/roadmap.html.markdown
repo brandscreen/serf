@@ -16,7 +16,7 @@ Because Serf is an open source project, you as a member of the Serf
 community have a big say in what features and improvements you want
 to see in Serf.
 If you have ideas for Serf, please feel free to post them to our
-[issue tracker](https://github.com/hashicorp/serf/issues) so that we can
+[issue tracker](https://github.com/brandscreen/serf/issues) so that we can
 discuss them.
 
 Finally, note that this roadmap is not exhaustive. We may be working on

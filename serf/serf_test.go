@@ -2,7 +2,7 @@ package serf
 
 import (
 	"fmt"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/brandscreen/serf/testutil"
 	"strings"
 	"testing"
 	"time"

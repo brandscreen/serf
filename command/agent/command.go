@@ -3,9 +3,9 @@ package agent
 import (
 	"flag"
 	"fmt"
-	"github.com/hashicorp/logutils"
-	"github.com/hashicorp/serf/cli"
-	"github.com/hashicorp/serf/serf"
+	"github.com/brandscreen/logutils"
+	"github.com/brandscreen/serf/cli"
+	"github.com/brandscreen/serf/serf"
 	"os"
 	"strings"
 	"sync"

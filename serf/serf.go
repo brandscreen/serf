@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/hashicorp/memberlist"
+	"github.com/brandscreen/memberlist"
 	"log"
 	"math/rand"
 	"net"
